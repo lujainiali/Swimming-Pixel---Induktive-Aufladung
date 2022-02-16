@@ -8,6 +8,6 @@ Dokumentation: http://hit-karlsruhe.de/hit-info/info-ws21/SP_IA/
 
 # Aufgabenstellung
 
-Die Aufgabe besteht darin, ein induktives Ladesystem mit Batterieladeüberwachung für das Swimming Pixel zu erstellen. Die Aufgabe umfasst auch den Aufbau der Schaltung und 3D-Druckteile
+Die Aufgabe besteht darin, ein induktives Ladesystem mit Batterieladeüberwachung für das Schwimmpixel zu erstellen. Der Benutzer kann den Wert der Batterieladung über die MQTT-Kommunikation erhalten. Die Aufgabe umfasst auch den Aufbau der Schaltung und 3D-Druckteile
 
 Link zum Youtube: 
